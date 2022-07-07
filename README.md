@@ -2,6 +2,6 @@
 # pruebaexamen
 prueba examen
 
-Lucas
+Lucas de los Angeles
 Joaquin De Sosa
 Leandro Escobal
